@@ -2,7 +2,7 @@ package ex02;
 
 import javax.swing.JOptionPane;
 
-public class ex02n {
+public class ex02o {
     
 public static void main(String[] args) {
         
