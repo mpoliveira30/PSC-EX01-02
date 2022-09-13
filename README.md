@@ -24,6 +24,6 @@ Nathan Ferreira dos Reis - RA: 822156739
 5. [Exercício F - Faça um programa que recebe três números reais e os exibe em ordem crescente](https://github.com/mpoliveira30/PSC-EX01-02/blob/main/EX02/src/ex02/ex02f.java)
 6. [Exercício H - Desenvolva um programa que recebe a base e a altura de três triângulos e exibe a maior área](https://github.com/mpoliveira30/PSC-EX01-02/blob/main/EX02/src/ex02/ex02h.java)
 7. [Exercício O - Desenvolva um programa que, com base em duas notas de provas e três notas de trabalhos dadas pelo usuário,
-exibe uma mensagem indicando se o aluno foi aprovado, reprovado ou se fará o exame](https://github.com/mpoliveira30/PSC-EX01-02/blob/main/EX02/src/ex02/ex02n.java)
+exibe uma mensagem indicando se o aluno foi aprovado, reprovado ou se fará o exame](https://github.com/mpoliveira30/PSC-EX01-02/blob/main/EX02/src/ex02/ex02o.java)
 
 
